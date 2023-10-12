@@ -11,3 +11,9 @@ What are P values?
 ```{r}
 1 + 1
 ```
+
+what is the way
+
+```{r}
+2 * 2 (4)
+```
